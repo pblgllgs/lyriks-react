@@ -1,4 +1,4 @@
-# Project Lyrics
+# Project Lyrics Project
 
 Develop an elegant React.js Music Application.
 
