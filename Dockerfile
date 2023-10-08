@@ -1,3 +1,2 @@
-FROM nginx:1.23.1
-COPY nginx.conf /etc/nginx/conf.d/default.conf
-COPY ./dist  /usr/share/nginx/html
+FROM nginx:1.25.0-alpine3.17-slim
+COPY dist  /usr/share/nginx/html
